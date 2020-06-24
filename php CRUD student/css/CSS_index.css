@@ -1,0 +1,29 @@
+body{
+	background-color: rgb(173,224,255);
+	
+	}
+.tab{
+	border: 2px solid;
+	border-radius: 30px;
+	background-color: rgb(38,172,255);
+	height: 35px;
+	width: 1050px;
+	box-shadow: 5px -5px 5px -2px #00000054;
+	}
+.link{
+	text-decoration: none;
+	font-family: cursive;
+	color: black;
+	font-size: 17px;
+	}
+.spas{
+	width: 4%;
+	}
+.zaglavie{
+	box-shadow: 5px -5px 5px -2px #0000054f;
+	border: 2px solid;
+	border-radius: 30px;
+	font-family: cursive;
+	background-color: rgb(38,172,255);
+	width: 380px;
+	}

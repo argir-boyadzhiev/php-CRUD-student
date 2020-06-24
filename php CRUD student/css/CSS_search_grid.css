@@ -1,0 +1,47 @@
+body{
+	background-color: rgb(173,224,255);
+	
+	}
+.sform{
+	border: 2px solid;
+	border-radius: 30px;
+	width: 400px;
+	background-color:  rgb(38,172,255);
+	box-shadow: 5px -5px 5px -2px #00000054;
+}
+.alr{
+	text-align: right;
+}
+.but{
+	text-align: center;
+	vertical-align: middle;
+	height: 22px;
+	width: 145px;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+
+}
+.tg{
+	
+	
+	border: 1px solid;
+	border-radius: 10px;
+	background-color:  rgb(205, 251, 255);
+	box-shadow: 5px -5px 5px -2px #00000054;
+	
+	
+	border-collapse: collapse;
+	border-style: none;
+}
+
+.j{
+	border: 2px solid;
+}
+.lb{
+	 text-decoration: none;
+	  color: black;
+}

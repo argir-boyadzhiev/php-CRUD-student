@@ -1,0 +1,41 @@
+body{
+	background-color: rgb(173,224,255);
+	font-size: 30px
+	
+	}
+.edno{
+	box-shadow: 5px -5px 5px -2px #00000054;
+	background-color: rgb(38,172,255);
+	border: 2px solid;
+	width: 600px;
+	height: 260px;
+	border-radius: 30px;
+}
+.zag{
+	box-shadow: 5px -5px 5px -2px #00000054;
+	border: 2px solid;
+	background-color: rgb(38,172,255);
+	border-radius: 30px;
+	height: 40px;
+	width: 400px;
+	text-align: center;
+}
+.ar{
+	text-align: right;
+}
+.bl{
+	text-align: center;
+	vertical-align: middle;
+	height: 35px;
+	width: 220px;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+
+}
+.inp{
+	font-size:18pt;
+}

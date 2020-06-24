@@ -1,0 +1,135 @@
+body{
+	background-color: rgb(173,224,255);
+	font-size: 30px
+	}
+.tg{
+	border: 2px solid;
+}
+.tab{
+	empty-cells: show;
+	border: 2px solid;
+	background-color:  rgb(205, 251, 255);
+	box-shadow: 5px -5px 5px -2px #00000054;
+	border-collapse: collapse;
+	border-style: none;
+}
+.zag{
+	border: 2px solid;
+	background-color: rgb(38,172,255);
+	border-radius: 30px;
+	height: 40px;
+	width: 430px;
+	text-align: center;
+	box-shadow: 5px -5px 5px -2px #00000054;
+}
+
+.bl{
+	font-size: 26px;
+	text-align: center;
+	vertical-align: middle;
+	height: 35px;
+	width: 220px;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+
+}
+.inp{
+	font-size:18pt;
+}
+/* dobavqne na kurs */
+.zag2{
+	border: 2px solid;
+	background-color: rgb(38,172,255);
+	border-radius: 30px;
+	height: 40px;
+	width: 350px;
+	text-align: center;
+	box-shadow: 5px -5px 5px -2px #00000054;
+}
+.tab2{
+	border: 2px solid;
+	background-color:  rgb(205, 251, 255);
+	box-shadow: 5px -5px 5px -2px #00000054;
+	border-radius: 20px;
+	width: 500px;
+	height: 100px;
+}
+.bl1{
+	font-size: 26px;
+	text-align: center;
+	vertical-align: middle;
+	height: 29px;
+	width: 100px;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-decoration: none;
+    color: initial;
+}
+/*curs update */
+.zag3{
+	border: 2px solid;
+	background-color: rgb(38,172,255);
+	border-radius: 30px;
+	height: 40px;
+	width: 350px;
+	text-align: center;
+	box-shadow: 5px -5px 5px -2px #00000054;
+}
+.tab3{
+	border: 2px solid;
+	background-color:  rgb(205, 251, 255);
+	box-shadow: 5px -5px 5px -2px #00000054;
+	border-radius: 20px;
+	width: 500px;
+	height: 100px;
+}
+.bl3{
+	font-size: 26px;
+	text-align: center;
+	vertical-align: middle;
+	height: 29px;
+	width: 100px;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-decoration: none;
+    color: initial;
+}
+/* kurs delete */
+.bl4{
+font-size: 26px;
+	text-align: center;
+	vertical-align: middle;
+	height: 37px;
+	width: 100px;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-decoration: none;
+    color: initial;
+}
+.del{
+	border: 2px solid;
+	background-color:  rgb(205, 251, 255);
+	box-shadow: 5px -5px 5px -2px #00000054;
+	border-radius: 20px;
+	width: 800px;
+	height: 100px;
+}
+.bl5{
+	font-size: 26px;
+	text-align: center;
+	vertical-align: middle;
+	height: 37px;
+	width: 100px;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-decoration: none;
+    color: initial;
+}
